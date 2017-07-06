@@ -1,0 +1,22 @@
+#defining a function
+def function_name(variable):
+	do something
+
+
+#create a iterating for loop
+for I in object:
+	do something
+
+
+#examples of if, elif, and else statements
+if x >= 2:
+	return True
+elif x == 3:
+	Print "That isn't good!"
+else:
+	return False
+
+
+#examples of while statements
+while x != 1:
+	print "This isn't the value you're looking for!"

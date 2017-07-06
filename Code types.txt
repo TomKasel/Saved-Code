@@ -1,0 +1,12 @@
+Basic types of Python code
+
+Int = 2
+Str = 'Bad'
+Float = 2.0
+Tuple  =  (1, 'Chemistry', 'Milk',  30)
+List = ['Stuff', 'Things', 'Objects'] or [1, 2, 3, 4, 5]
+Dictionary = {
+'Chemistry' : 'Best',
+'Two': 'Even'
+'Fruit': 1.39
+}

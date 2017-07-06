@@ -1,0 +1,6 @@
+#creating a file
+x = 'Some text you want to add to file'
+f = open("""file path e.g.""" 'C:\Users\Tom\Desktop\filename.txt', """what do you want to do 
+	to the file""" 'w+') """ 'w+' creates a file that didn't already exist, or opens it if it does"""
+f.write(str(x)) #adds text to file
+f.close() #closes file and saves

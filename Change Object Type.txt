@@ -1,0 +1,6 @@
+#change object to string
+str(object)
+
+
+#change object to integer
+int(object)

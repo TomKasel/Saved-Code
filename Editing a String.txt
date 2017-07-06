@@ -1,0 +1,6 @@
+#split a string up
+string = string.split(' ')
+
+
+#join a string together
+string = ' '.join(string)

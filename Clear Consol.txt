@@ -1,0 +1,3 @@
+# clear python history
+import os
+os.system('cls')
